@@ -19,6 +19,7 @@ In this exercise, you'll work with gene expression data to identify differential
 
 
 ## Additional Information:
+- Use the requirements.txt file to easily install the necessary python packages
 - Use boto3 or the aws cli tool to download the h5ad file
 - Use the anndata python package for interacting with the h5ad input file
 - input dataset description:
