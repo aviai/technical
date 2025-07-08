@@ -15,7 +15,6 @@ In this exercise, you'll work with gene expression data to identify differential
     - The pandas dataframe should include:
       - gene: the identifier for a given gene
       - logFC: the log fold change value
-      - p_val/measure_of_confidence: the statistical significance
 
 
 ## Additional Information:
